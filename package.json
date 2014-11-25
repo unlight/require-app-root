@@ -1,0 +1,31 @@
+{
+  "name": "require-app-root",
+  "version": "1.0.0",
+  "description": "Hack for function `require` allows to load a module from the application root folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unlight/require-app-root.git"
+  },
+  "keywords": [
+    "require",
+    "root",
+    "asp",
+    "loadcontrol",
+    "application-root-folder",
+    "loading"
+  ],
+  "author": "S",
+  "license": "X.Net",
+  "bugs": {
+    "url": "https://github.com/unlight/require-app-root/issues"
+  },
+  "homepage": "https://github.com/unlight/require-app-root",
+  "devDependencies": {
+    "mkdirp": "^0.5.0",
+    "tape": "3.X"
+  }
+}
