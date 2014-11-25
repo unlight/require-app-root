@@ -14,6 +14,9 @@ Somewhere in bootstrap file of your project:
 require("require-app-root");
 ```
 Then you can use `require` with `~/`
+```js
+var user = require("~/library/user.js");
+```
 
 NOTES
 -----
