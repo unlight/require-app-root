@@ -1,6 +1,6 @@
 {
   "name": "require-app-root",
-  "version": "1.0.0",
+  "version": "1.0.0-a",
   "description": "Hack for function `require` allows to load a module from the application root folder",
   "main": "index.js",
   "scripts": {
