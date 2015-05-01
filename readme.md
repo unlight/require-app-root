@@ -1,5 +1,8 @@
 require-app-root
 ================
+
+# PROJECT ABANDONED. USE [requiro](https://www.npmjs.com/package/requiro) INSTEAD
+
 Hack for function `require` allows to load a module from the application root folder, 
 using `~/` as in the asp.net's methods (LoadControl, etc.)
 
