@@ -26,6 +26,6 @@
   "homepage": "https://github.com/unlight/require-app-root",
   "devDependencies": {
     "mkdirp": "^0.5.0",
-    "tape": "3.X"
+    "tape": "^4.6.3"
   }
 }
