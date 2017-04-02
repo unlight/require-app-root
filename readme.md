@@ -1,6 +1,8 @@
 require-app-root
 ================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/require-app-root.svg)](https://greenkeeper.io/)
+
 # PROJECT ABANDONED. USE [requiro](https://www.npmjs.com/package/requiro) INSTEAD
 
 Hack for function `require` allows to load a module from the application root folder, 
